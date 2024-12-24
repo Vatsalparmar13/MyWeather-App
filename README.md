@@ -28,10 +28,3 @@ A simple and user-friendly Weather App built using **Java**, **Weather API**, **
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Vatsalparmar13/MyWeather-App.git
-   
----
-
-## Download APK 📱
-
-[Download MyWeatherApp APK](https://github.com/your-username/MyWeather-App/raw/master/app/release)
-
