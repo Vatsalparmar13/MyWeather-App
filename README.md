@@ -33,5 +33,5 @@ A simple and user-friendly Weather App built using **Java**, **Weather API**, **
 
 ## Download APK 📱
 
-[Download MyWeatherApp APK](https://github.com/your-username/MyWeather-App/raw/master/app/release/app-release.apk)
+[Download MyWeatherApp APK](https://github.com/your-username/MyWeather-App/raw/master/app/release)
 
